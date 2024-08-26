@@ -64,3 +64,12 @@ switch (today) {
     default:
         console.log("Today is Saturday");
 }
+
+
+// 4) Ternary operator - shorthand way to write an if-else statement on a single line 
+
+var age = 18;
+var canVote = age >= 18 ? "Yes, you can vote!" : "No, you cannot vote yet.";
+console.log(canVote);
+
+// result: Yes, you can vote!
