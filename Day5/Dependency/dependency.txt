@@ -1,0 +1,7 @@
+Dependency Injection 
+    - used to share data between classes,
+    - the data can be methods, properties, etc
+    - dIt is done inside constructor
+Syntax:
+constructor(access-specifier variable_name:DependencyClass)
+There are three types of access specifiers: private, public, protected
